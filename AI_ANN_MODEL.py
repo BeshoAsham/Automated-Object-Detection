@@ -27,7 +27,7 @@ from sklearn.metrics import precision_recall_fscore_support
 # In[6]:
 
 
-data_path = r"D:\\1\\train"
+data_path = r"/train"
 img_size=256             
 counter=0            
 X=[]
