@@ -2,4 +2,4 @@
 -	Convert dataset into BGR scale
 -	Used VGG16 to extract features
 -	Accuracy score = 95 %
-	Fully Documented
+-	Fully Documented
